@@ -22,8 +22,7 @@ def cmd(fun):
 #         print(i)
 #
 #
-# ls()  #改进装饰器H逼格写法
-
+# ls()  
 @cmd
 
 def ls_l(*args):
